@@ -1,0 +1,11 @@
+﻿input,output
+GPUセンサーコレクションのURIは？,/redfish/v1/Systems/{ComputerSystemId}/Oem/Dell/DellGPUSensors
+物理ディスクコレクションのURIは？,/redfish/v1/Systems/{ComputerSystemId}/Storage/Drives/Oem/Dell/DellDrives
+PSUコレクションのURIは？,/redfish/v1/Chassis/{ComputerSystemId}/Power/Oem/Dell/DellPowerSupply
+ネットワークアダプタコレクションインスタンのURIは？,/redfish/v1/Chassis/{ChassisId}/NetworkAdapters
+プロセッサコレクションのURIは？,/redfish/v1/Systems/{ComputerSystemId}/Processors
+ストレージコレクションのURIは？,/redfish/v1/Systems/{ComputerSystemId}/Storage
+バッテリコレクションのURIは？,/redfish/v1/Chassis/{ChassisId}/PowerSubsystem/Batteries
+シャーシコレクションのURIは？,/redfish/v1/Chassis
+InfinibandコレクションのURIは？,/redfish/v1/Systems/{ComputerSystemId}/NetworkDeviceFunctions/Oem/Dell/DellInfiniBand
+メモリコレクションのURIは？,/redfish/v1/Systems/{ComputerSystemId}/Memory/Oem/Dell/DellMemory
